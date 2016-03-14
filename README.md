@@ -2,7 +2,7 @@ Localization
 ============
 
 A simple localization singleton with convenience macro defined.
-Relies on cocs2d-x FileUtils, but they can be easily replaced with arbitrary file io.
+Relies on cocos2d-x FileUtils, but they can be easily replaced with arbitrary file io.
 
 ============
 
